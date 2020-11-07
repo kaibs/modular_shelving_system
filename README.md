@@ -5,7 +5,7 @@ The files are designed for the usage of boards with a thickness of 15mm and M8 h
 
 <img src="images/full_view_1.jpg" width="500"/>
 
-## content:
+## parts:
 
 The system is based on 3 basic components:
 
@@ -16,6 +16,8 @@ The system is based on 3 basic components:
 Additionally there exist versions of *corner* and *line* as the feet of the shelve.
 
 For each ***_body** component a ***_lid** is provided, to cover the open front of the parts.
+
+<img src="images/parts_render_2.png" width="500"/>
 
 ## additionally needed components:
 
