@@ -3,6 +3,8 @@
 repository for a shelving system based on common hardware components and 3d-printable connectors.
 The files are designed for the usage of boards with a thickness of 15mm and M8 hardware. 
 
+<img src="images/full_view_1.jpg" width="500"/>
+
 ## content:
 
 The system is based on 3 basic components:
@@ -15,7 +17,7 @@ Additionally there exist versions of *corner* and *line* as the feet of the shel
 
 For each ***_body** component a ***_lid** is provided, to cover the open front of the parts.
 
-## additional components:
+## additionally needed components:
 
 For each pair (front and back) of printed connectors a M8 threaded rod and two **_low-profile_** (5mm thickness) M8 nuts are needed.
 Additionally there are holes for pan-head chipboard screws (I used 4,5x40mm) to increase the stability of the construction. Although not essential I highly recommend to use these.
@@ -25,6 +27,13 @@ Additionally there are holes for pan-head chipboard screws (I used 4,5x40mm) to 
 * **4** screws _per_ center-cross
 
 I also recommend to use some cross-braces on the back of the shelves to increase horizontal stability. The ones from IKEA ([link](https://www.ikea.com/us/en/p/observatoer-cross-brace-galvanized-87749600/)) are a cheap option for this.
+
+## extra parts:
+
+I've included two additional parts in this repository to mount a clothing rail.
+
+* **wallmount** (*_main* and *_clamp) can be screwed against a wall to hold a rod with 25mm diameter
+* **mount_elvarli** is intended to be mounted onto a [IKEA elvarli post](https://www.ikea.com/us/en/p/elvarli-post-white-40296170/)) (again for 25mm rods)
 
 ## printing advise:
 
